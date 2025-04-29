@@ -194,6 +194,10 @@ footer {
     body {
         max-width: 580px;
     }
+
+  .section-two .container .left-column {
+     width: 77%;
+  }  
    
 }
 
