@@ -89,7 +89,7 @@ h3 {
     margin-right: 40px;
     padding: 30px;
     color: antiquewhite;
-    background-image: url("/images/simple-steps.jpg");
+    background-image: url("../images/simple-steps.jpg");
     border: 3px solid #4676A9;
    
 }
